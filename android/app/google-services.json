@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704487931930",
+    "firebase_url": "https://foodie-16e85.firebaseio.com",
+    "project_id": "foodie-16e85",
+    "storage_bucket": "foodie-16e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704487931930:android:d25d7b5a47c0ad002091a3",
+        "android_client_info": {
+          "package_name": "com.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704487931930-i3justu8des1k93rca7g98ke3j03bae7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Lk8p3yxRVl9PxRa-lOXfH7joy0VuUI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704487931930-i3justu8des1k93rca7g98ke3j03bae7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704487931930-08hve75megnvpt2l2lrccar1tvqak3c8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.teechow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
